@@ -8,6 +8,6 @@ public class TestServiceImpl implements TestService {
 
     @Override
     public String test(String name) {
-        return name + "欢迎访问";
+        return name + "Welcome to visit ...";
     }
 }
